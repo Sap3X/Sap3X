@@ -32,7 +32,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sap3X&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-# Trophies:
+# 🏆 Trophies:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sap3x" alt="sap3x" /></a> </p>
 
 
