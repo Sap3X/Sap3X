@@ -25,3 +25,15 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sap3x&show_icons=true&locale=en&layout=compact" alt="sap3x" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sap3x&show_icons=true&locale=en" alt="sap3x" /></p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sap3X&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sap3X&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sap3X&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sap3X&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+------
+[![](https://visitcount.itsvg.in/api?id=Sap3X&icon=0&color=0)](https://visitcount.itsvg.in)
+
