@@ -3,6 +3,7 @@
 
 <br>
 - 🔭 I’m currently working on Airline Management System.
+- 🌱 Currently learning MERN Stack.
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/_Sap3x_)
