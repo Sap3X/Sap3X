@@ -29,7 +29,7 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 --
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
+--
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sap3X&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
