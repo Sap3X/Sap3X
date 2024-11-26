@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend developer from Nepal, studing in India.</h3>
 
 <br>
-- 🔭 I’m currently working on **Airline Management System as a college project.**
+- 🔭 I’m currently working on 
+**Airline Management System as a college project.**
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/_Sap3x_)
