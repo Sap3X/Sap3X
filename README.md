@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sapekcha Bhandari. Aka Sap3X</h1>
-<h3 align="center">A passionate frontend developer from Nepal, studing in India.</h3>
+<h3 align="center">A passionate Full Stack Developer from Nepal, studing in India.</h3>
 
 <br><br>
 <table cellspacing="0" cellpadding="0" style="border: none;">
@@ -7,25 +7,15 @@
         <th>
             <img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="290">
         </th>
-        <th align='left'>
-        <br>
-            - 🔭 I’m currently working on Airline Management System.
+<th align='left'>
+<br>
+- 🔭 I’m currently working on Airline Management System.
             
-            - 🌱 Currently learning MERN Stack.
-            - 👯 I’m looking to collaborate on ...
-            - 🤔 I’m looking for help with ...
-            - 💬 Ask me about ...
-            - 📫 How to reach me: ...
-            - ⚡ Fun fact: ...- 🚀 I specialize in Full Stack Development, AWS & React Native Technologies
-            - Full Stack | React Native | JIRA | Docker | Agile 
-            - 📝 You can find my articles and in-depth technical insights at my [website](https://www.codepect.com)
+- 🌱 Currently learning MERN Stack.
 
-- 📧 Feel free to reach out to me via email at brktrl@protonmail.ch.
+- Full Stack | Mern Stack | DSA 
 
-- 🔍 Explore my extensive experience and projects on [GitHub](https://github.com/aaditya-ansh-03514224a).
-
-- 💬 Don't hesitate to Collaborate on Any FSD Project.
-        </th>
+</th>
     </tr>
 </table>
 <br>
