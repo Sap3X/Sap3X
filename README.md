@@ -33,6 +33,7 @@
 
 
 # 🏆 Trophies:
+![](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-profile-trophy.vercel.app/?username=sap3x)<br>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sap3x" alt="sap3x" /></a>
 
