@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sapekcha Bhandari. Aka Sap3X</h1>
 <h3 align="center">A passionate frontend developer from Nepal, studing in India.</h3>
 
-
+<br>
 - 🔭 I’m currently working on **Airline Management System as a college project.**
 
 ## 🌐 Socials:
@@ -33,7 +33,7 @@
 
 
 # 🏆 Trophies:
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sap3x" alt="sap3x" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sap3x" alt="sap3x" /></a> </p>
 
 
 ### 🔝 Top Contributed Repo
