@@ -33,9 +33,7 @@
 
 
 # 🏆 Trophies:
-![](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-profile-trophy.vercel.app/?username=sap3x)<br>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sap3x" alt="sap3x" /></a>
 
 
 ### 🔝 Top Contributed Repo
@@ -44,4 +42,3 @@
 
 ------
 [![](https://visitcount.itsvg.in/api?id=Sap3X&icon=0&color=0)](https://visitcount.itsvg.in)
-
