@@ -5,6 +5,39 @@
 - 🔭 I’m currently working on Airline Management System.<br>
 - 🌱 Currently learning MERN Stack.
 
+<table cellspacing="0" cellpadding="0" style="border: none;">
+    <tr>
+        <th>
+            <img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="290"></th>
+<th align='left'>
+    <br>
+    
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+
+- ⚡ Fun fact: ...- 🚀 I specialize in Full Stack Development, AWS & React Native Technologies
+
+- Full Stack | React Native | JIRA | Docker | Agile 
+
+- 📝 You can find my articles and in-depth technical insights at my [website](https://www.codepect.com)
+
+- 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in//) to stay updated on my professional journey.
+
+- 📧 Feel free to reach out to me via email at brktrl@protonmail.ch.
+
+- 🔍 Explore my extensive experience and projects on [GitHub](https://github.com/aaditya-ansh-03514224a).
+
+- 💬 Don't hesitate to Collaborate on Any FSD Project.
+        </th>
+    </tr>
+</table>
+<br>
+
 ## 🌐 Social Medias:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/_Sap3x_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sapekcha-bhandari)
