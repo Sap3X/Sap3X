@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sapekcha Bhandari. Aka Sap3X</h1>
 <h3 align="center">A passionate frontend developer from Nepal, studing in India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sap3x&label=Profile%20views&color=0e75b6&style=flat" alt="sap3x" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sap3x" alt="sap3x" /></a> </p>
 
 - 🔭 I’m currently working on **Airline Management System as a college project.**
 
@@ -33,6 +30,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Sap3X&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sap3X&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sap3X&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sap3x" alt="sap3x" /></a> </p>
 
 
 ### 🔝 Top Contributed Repo
