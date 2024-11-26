@@ -22,7 +22,7 @@
 </table>
 <br>
 
-## 🌐 Social Medias:
+## 🌐 Social Media:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/_Sap3x_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sapekcha-bhandari)
 
@@ -50,6 +50,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Sap3X&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sap3X&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sap3X&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Sap3X's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sap3X&theme=react-dark)](https://github.com/Sap3X/github-readme-activity-graph)
 
 
 # 🏆 Trophies:
