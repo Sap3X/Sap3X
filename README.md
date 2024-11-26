@@ -24,8 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sap3x&show_icons=true&locale=en&layout=compact" alt="sap3x" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sap3x&show_icons=true&locale=en" alt="sap3x" /></p>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sap3X&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sap3X&theme=dark&hide_border=false)<br/>
