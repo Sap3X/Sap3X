@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Nepal, studing in India.</h3>
 
 <br>
-- 🔭 I’m currently working on Airline Management System.
+- 🔭 I’m currently working on Airline Management System.<br>
 - 🌱 Currently learning MERN Stack.
 
 ## 🌐 Socials:
