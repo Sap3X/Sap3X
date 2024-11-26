@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from Nepal, studing in India.</h3>
 
 <br><br>
-<table cellspacing="0" cellpadding="0" style="border: none;">
+<table align="center" cellspacing="0" cellpadding="0" style="border: none;">
     <tr>
         <th>
             <img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="290">
