@@ -15,7 +15,7 @@
             
 - 🌱 Currently learning MERN Stack.
 
-- Full Stack | Mern Stack | DSA 
+- WEB Development (MERN STACK) | UI/UX Design | DSA 
 
 </th>
     </tr>
