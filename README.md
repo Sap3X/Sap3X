@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sapekcha Bhandari. Aka Sap3X</h1>
-<h3 align="center">A passionate Full Stack Developer from Nepal, studing in India.</h3>
+<h3 align="center">A passionate Full Stack Developer from Nepal, Working in Bardali Creations.</h3>
 
 <br><br>
 <table align="center" cellspacing="0" cellpadding="0" style="border: none;">
