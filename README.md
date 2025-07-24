@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on My portfolio.
             
-- 🌱 Currently learning MERN Stack.
+- 🌱 Currently learning Django.
 
 - WEB Development (MERN STACK) | UI/UX Design | DSA 
 
