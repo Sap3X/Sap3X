@@ -98,7 +98,7 @@
 
 
 # 🏆 Trophies:
-![](https://github-profile-trophy.vercel.app/?username=sap3x)<br>
+![Sap3X's github trophy](https://github-profile-trophy.vercel.app/?username=sap3x)<br>
 
 
 ### 🔝 Top Contributed Repo
