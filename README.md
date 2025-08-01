@@ -5,6 +5,8 @@
 <table align="center" cellspacing="0" cellpadding="0" style="border: none;">
     <tr>
         <th>
+            <p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
             <img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="290">
         </th>
 <th align='left'>
@@ -106,4 +108,3 @@
 
 
 ------
-[![](https://visitcount.itsvg.in/api?id=Sap3X&icon=0&color=0)](https://visitcount.itsvg.in)
