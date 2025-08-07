@@ -25,6 +25,8 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=fff)](#)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](#)
+[![Three.js](https://img.shields.io/badge/Three.js-000.svg?style=for-the-badge&logo=threedotjs&logoColor=fff)](#)
+[![Anime.js](https://img.shields.io/badge/Amine.js-000.svg?style=for-the-badge&logo=animedotjs&logoColor=fff)](#)
 
 ### MERN Stack
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](#)
@@ -53,7 +55,6 @@
 
 ### Framework
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](#)
-[![Three.js](https://img.shields.io/badge/Three.js-000.svg?style=for-the-badge&logo=threedotjs&logoColor=fff)](#)
 [![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=fff)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-black.svg?style=for-the-badge&logo=next.js&logoColor=white)](#)
 
